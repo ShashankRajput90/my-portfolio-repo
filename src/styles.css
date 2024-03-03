@@ -3,6 +3,7 @@
 */
 
 @import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&family=Montserrat:wght@200;400;600;800&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 html,
 body {
@@ -46,9 +47,10 @@ section img.background {
 }
 
 h1 {
-  font-family: "Cormorant Garamond", serif;
+  font-family: "Montserrat", sans-serif;
+  color :rgba(255, 255, 255, 0.582);
   font-size: 7rem;
-  font-weight: 400;
+  font-weight: 500;
   line-height: 0.8;
   margin: 0;
 }
@@ -94,7 +96,7 @@ li::marker {
 }
 
 a {
-  color: black;
+  color: rgb(0, 0, 0);
   text-decoration: none;
 }
 
