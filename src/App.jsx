@@ -25,14 +25,14 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Shashank Lodhi",
-  title: "Student & Graphic Designer",
+  title: "Student at MIT || MIT'26 || Graphic Design",
   email: "rajputshashank9012@gmail.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  gitHub: "ShashankRajput90",
+  instagram: "Shashankrajput90",
+  linkedIn: "shashank-lodhi-a93b2524b/",
   medium: "",
   twitter: "",
-  youTube: "Code",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
