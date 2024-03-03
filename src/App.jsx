@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Shashank Lodhi",
-  title: "Student at MIT || MIT'26 || Graphic Design",
+  title: "Student at MIT | MIT'26 | Graphic Design",
   email: "rajputshashank9012@gmail.com",
   gitHub: "ShashankRajput90",
   instagram: "Shashankrajput90",
