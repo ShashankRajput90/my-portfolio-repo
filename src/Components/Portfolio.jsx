@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../../src/images/tree.jpg";
 
-const imageAltText = "a good tree with a good view.";
+const imageAltText = "a tree with a good view.";
 
 /**
  * Project list
